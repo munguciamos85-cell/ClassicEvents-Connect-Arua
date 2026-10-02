@@ -1,0 +1,18 @@
+CLASSIC EVENTS CONNECT — ADMINISTRATOR
+
+Administrator name: Munguci Amos
+Administrator email: munguciamos85@gmail.com
+Role: admin
+Contact the Team: 0776459209
+
+SECURITY
+The administrator password is intentionally NOT stored in this ZIP or website code.
+Create/change the password in Supabase Authentication -> Users.
+
+QUICK SETUP
+1. Create munguciamos85@gmail.com in Supabase Authentication -> Users.
+2. Set a private administrator password.
+3. Open SQL Editor and run ADMIN_SETUP.sql.
+4. Open the website -> Admin.
+5. The administrator email is pre-filled; enter the private password and sign in.
+6. The dashboard can then display cloud bookings, providers, events, users and reviews.

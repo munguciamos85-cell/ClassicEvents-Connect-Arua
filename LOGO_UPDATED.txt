@@ -1,0 +1,3 @@
+Classic Events Connect
+
+The website now uses the owner's supplied Classic Events logo in the header and as the browser favicon.
